@@ -11,7 +11,6 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 09:00:39 -0300</lastBuildDate>
     <atom:link href="https://tomas-bustamante-h.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
@@ -19,15 +18,6 @@
       <pubDate>Tue, 26 Mar 2024 09:00:39 -0300</pubDate>
       <guid>https://tomas-bustamante-h.github.io/cv/</guid>
       <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
-    </item>
-    <item>
-      <title>Post</title>
-      <link>https://tomas-bustamante-h.github.io/posts/post/</link>
-      <pubDate>Sun, 24 Mar 2024 00:02:20 -0300</pubDate>
-      <guid>https://tomas-bustamante-h.github.io/posts/post/</guid>
-      <description>Primer Post Hola jajaj
-haol
-hola </description>
     </item>
     <item>
       <title>About Me</title>
