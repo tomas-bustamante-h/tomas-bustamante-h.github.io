@@ -11,14 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2023 16:53:59 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 00:02:20 -0300</lastBuildDate>
     <atom:link href="https://tomas-bustamante-h.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>En construcción.....</title>
-      <link>https://tomas-bustamante-h.github.io/posts/nada/</link>
-      <pubDate>Wed, 10 May 2023 16:53:59 -0400</pubDate>
-      <guid>https://tomas-bustamante-h.github.io/posts/nada/</guid>
-      <description>Information about me.</description>
+      <title>Post</title>
+      <link>https://tomas-bustamante-h.github.io/posts/post/</link>
+      <pubDate>Sun, 24 Mar 2024 00:02:20 -0300</pubDate>
+      <guid>https://tomas-bustamante-h.github.io/posts/post/</guid>
+      <description>Primer Post Hola jajaj
+haol
+hola </description>
     </item>
   </channel>
 </rss>
